@@ -19,7 +19,7 @@ svg {
     width: 200px;
 
     animation: rotation 5s linear infinite;
-    transition: left .2s, top .2s;
+    transition: left .4s linear, top .4s linear;
     pointer-events: none;
 }
 
